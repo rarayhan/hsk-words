@@ -2,93 +2,38 @@ import React, { useState, useEffect } from 'react';
 import { Word, AppTab } from './types';
 import { ReviewMode } from './components/ReviewMode';
 import { WordList } from './components/WordList';
-import { BookOpen, List } from 'lucide-react';
-import { enrichWordsBulk } from './services/geminiService';
+import { BookOpen, List, Loader2 } from 'lucide-react';
+
+// NOTE: We no longer import geminiService because we are 100% static now!
 
 const App: React.FC = () => {
   const [activeTab, setActiveTab] = useState<AppTab>(AppTab.REVIEW);
-  
-  // Initialize from localStorage directly (The Cache)
-  // This ensures we load pinyin/meanings instantly without re-fetching Gemini
-  const [words, setWords] = useState<Word[]>(() => {
-    const saved = localStorage.getItem('chinese-words');
-    try {
-      return saved ? JSON.parse(saved) : [];
-    } catch (e) {
-      console.error("Failed to parse words", e);
-      return [];
-    }
-  });
+  const [words, setWords] = useState<Word[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-  const [syncStatus, setSyncStatus] = useState<string>('');
-  const [isSyncing, setIsSyncing] = useState(false);
-
-  // Auto-Save: Update cache whenever words change
+  // Load words.json ONCE when the app starts
   useEffect(() => {
-    localStorage.setItem('chinese-words', JSON.stringify(words));
-  }, [words]);
-
-  // Sync Logic:
-  // 1. Load words.txt
-  // 2. Filter out words we already have in cache
-  // 3. Fetch ONLY the new words from Gemini
-  useEffect(() => {
-    const syncWithFile = async () => {
+    const loadStaticData = async () => {
       try {
-        // Add timestamp to prevent caching on static hosts like GitHub Pages
-        const response = await fetch(`words.txt?t=${Date.now()}`);
-        if (!response.ok) {
-           // If file missing, just stay silent, maybe user hasn't created it yet
-           return; 
-        }
-
-        const text = await response.text();
-        const fileLines = text.split('\n').map(line => line.trim()).filter(Boolean);
+        // Fetch the static JSON file from the public folder
+        const response = await fetch('words.json');
         
-        if (fileLines.length === 0) return;
-
-        // Check against Cache: Find words that are in the file but NOT in our current list
-        const existingChars = new Set(words.map(w => w.character));
-        const newChars = fileLines.filter(char => !existingChars.has(char));
-
-        if (newChars.length > 0) {
-          setIsSyncing(true);
-          setSyncStatus(`Found ${newChars.length} new words. Fetching meanings...`);
-          
-          // Bulk fetch only the new items
-          const enrichedResults = await enrichWordsBulk(newChars, (current, total) => {
-            setSyncStatus(`Analyzing new words: ${current}/${total}...`);
-          });
-
-          const newWordObjects: Word[] = enrichedResults.map(res => ({
-            ...res,
-            id: crypto.randomUUID(),
-            createdAt: Date.now(),
-          }));
-
-          // Merge new words into state (and thus into cache)
-          setWords(prev => {
-            const currentChars = new Set(prev.map(w => w.character));
-            const uniqueNewWords = newWordObjects.filter(w => !currentChars.has(w.character));
-            return [...uniqueNewWords, ...prev];
-          });
-          
-          setSyncStatus(`Enriched & Cached ${newWordObjects.length} new words.`);
-          setTimeout(() => setSyncStatus(''), 4000);
-        } else {
-           console.log("Words.txt matches cache. No API call needed.");
+        if (!response.ok) {
+          console.error("Failed to load words.json");
+          return;
         }
+
+        const data = await response.json();
+        setWords(data);
       } catch (error) {
-        console.error("Error syncing with words.txt", error);
+        console.error("Error loading static data:", error);
       } finally {
-        setIsSyncing(false);
+        setIsLoading(false);
       }
     };
 
-    // Small delay to ensure initial render is done
-    setTimeout(syncWithFile, 1000);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []); 
+    loadStaticData();
+  }, []);
 
   const NavButton = ({ tab, icon: Icon, label }: { tab: AppTab; icon: React.ElementType; label: string }) => (
     <button
@@ -101,6 +46,15 @@ const App: React.FC = () => {
       <span className="text-[10px] font-medium">{label}</span>
     </button>
   );
+
+  if (isLoading) {
+    return (
+      <div className="h-full flex flex-col items-center justify-center bg-gray-50 text-chinese-red gap-4">
+        <Loader2 className="animate-spin" size={48} />
+        <p className="font-medium">Loading Dictionary...</p>
+      </div>
+    );
+  }
 
   return (
     <div className="h-full flex flex-col bg-gray-100 max-w-lg mx-auto shadow-2xl overflow-hidden relative">
@@ -115,11 +69,6 @@ const App: React.FC = () => {
             {words.length} Words
           </div>
         </div>
-        {syncStatus && (
-          <div className={`text-xs mt-2 px-3 py-2 rounded-md transition-all ${isSyncing ? 'bg-blue-50 text-blue-700 animate-pulse border border-blue-100' : 'bg-green-50 text-green-700 border border-green-100'}`}>
-            {syncStatus}
-          </div>
-        )}
       </header>
 
       {/* Main Content */}
