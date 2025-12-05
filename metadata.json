@@ -1,0 +1,5 @@
+{
+  "name": "hsk",
+  "description": "A mobile-first vocabulary companion designed for reviewing Chinese words. Features AI-powered word lookup and flashcards.",
+  "requestFramePermissions": []
+}
