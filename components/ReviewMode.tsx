@@ -31,9 +31,18 @@ export const ReviewMode: React.FC<ReviewModeProps> = ({ words: initialWords }) =
   };
 
   const handleShuffle = () => {
-    const shuffled = [...reviewList].sort(() => Math.random() - 0.5);
+    // 1. Create a copy of the current list
+    const shuffled = [...reviewList];
+    
+    // 2. Perform Fisher-Yates Shuffle (The "Perfect" Shuffle)
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+
+    // 3. Update state
     setReviewList(shuffled);
-    setCurrentIndex(0);
+    setCurrentIndex(0); // Reset to the first card of the NEW order
     setIsFlipped(false);
   };
 
