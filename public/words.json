@@ -1,1 +1,425 @@
-[{"character":"周末","pinyin":"zhōumò","meaning":"weekend","exampleSentence":"这个周末你有什么打算？","exampleMeaning":"What are your plans for this weekend?","id":"6c597d6a-211d-465d-a472-191508ec6060","createdAt":1764938129182},{"character":"打算","pinyin":"dǎsuàn","meaning":"to plan; to intend; plan","exampleSentence":"我打算下个月去北京旅行。","exampleMeaning":"I plan to travel to Beijing next month.","id":"7a4ddf29-485b-4d10-bcb8-4c54c4ababc6","createdAt":1764938129182},{"character":"跟","pinyin":"gēn","meaning":"with; to follow; and (colloquial)","exampleSentence":"我跟我朋友一起去看电影。","exampleMeaning":"I went to see a movie with my friend.","id":"500f57dc-ccfd-4d04-9003-2417f59b3220","createdAt":1764938129182},{"character":"复习","pinyin":"fùxí","meaning":"to review","exampleSentence":"考试前我需要好好复习。","exampleMeaning":"I need to review well before the exam.","id":"8b4fed89-d462-4ee0-9e07-1b8076f109c2","createdAt":1764938129182},{"character":"着急","pinyin":"zháojí","meaning":"to worry; to feel anxious","exampleSentence":"你不用着急，还有时间。","exampleMeaning":"You don't need to worry, there's still time.","id":"4cb8cdf9-4c91-456c-89d6-a56ca2f02691","createdAt":1764938129182},{"character":"小丽","pinyin":"Xiǎo Lì","meaning":"Xiao Li (a given name)","exampleSentence":"小丽很喜欢唱歌。","exampleMeaning":"Xiao Li likes singing very much.","id":"48911c2b-53fd-44a7-bd50-97f260df7e03","createdAt":1764938129182},{"character":"小刚","pinyin":"Xiǎo Gāng","meaning":"Xiao Gang (a given name)","exampleSentence":"小刚今天没来上学。","exampleMeaning":"Xiao Gang didn't come to school today.","id":"67e51afc-88d5-48e0-ab36-b6c317d21504","createdAt":1764938129182},{"character":"面包","pinyin":"miànbāo","meaning":"bread","exampleSentence":"我早餐喜欢吃面包和牛奶。","exampleMeaning":"I like to eat bread and milk for breakfast.","id":"1595ad46-7eac-4d73-96cb-c040e7303640","createdAt":1764938129182},{"character":"南方","pinyin":"nánfāng","meaning":"south; southern part","exampleSentence":"中国的南方冬天不是很冷。","exampleMeaning":"The south of China is not very cold in winter.","id":"ae40b4d1-8325-4131-ba86-6c50c73a8833","createdAt":1764938129182},{"character":"北方","pinyin":"běifāng","meaning":"north; northern part","exampleSentence":"北方冬天经常下雪。","exampleMeaning":"It often snows in the north during winter.","id":"ca8e748f-359f-49e6-8d90-c64e9f38859d","createdAt":1764938129182},{"character":"带","pinyin":"dài","meaning":"to bring; to take; to carry","exampleSentence":"请你带上你的护照。","exampleMeaning":"Please bring your passport.","id":"300bbf2c-6ccd-4fe0-9a7e-e5cd30592657","createdAt":1764938129182},{"character":"般","pinyin":"bān","meaning":"sort; kind; like; general (often used in phrases like 一般, 正常)","exampleSentence":"他今天表现得像往常一样。","exampleMeaning":"He behaved as usual today.","id":"574954db-5595-43fe-8f04-460697723705","createdAt":1764938129182},{"character":"地图","pinyin":"dìtú","meaning":"map","exampleSentence":"我们用地图找到那个地方。","exampleMeaning":"We used the map to find that place.","id":"2b5ddaff-d793-4090-94af-fa8deb19c21a","createdAt":1764938129182},{"character":"游戏","pinyin":"yóuxì","meaning":"game","exampleSentence":"孩子们喜欢玩电脑游戏。","exampleMeaning":"Children like to play computer games.","id":"f97862df-33b7-490a-8caf-563af6e5d9f6","createdAt":1764938129182},{"character":"作业","pinyin":"zuòyè","meaning":"homework; assignment","exampleSentence":"我还没有完成今天的作业。","exampleMeaning":"I haven't finished today's homework yet.","id":"9198ff42-d4a6-4cb1-86f7-7d24f682205f","createdAt":1764938129182},{"character":"一直","pinyin":"yīzhí","meaning":"straight; continuously; always","exampleSentence":"他一直都在努力学习。","exampleMeaning":"He has always been studying hard.","id":"3896ed0f-6bcd-4b4f-84ec-25f2458dd580","createdAt":1764938129182},{"character":"早就","pinyin":"zǎojiù","meaning":"long ago; already (earlier than expected)","exampleSentence":"我早就知道了这个消息。","exampleMeaning":"I already knew this news a long time ago.","id":"d992c2d3-e7c2-4ea3-b64d-3d16ca9c2568","createdAt":1764938129182},{"character":"饭","pinyin":"fàn","meaning":"meal; cooked rice","exampleSentence":"你吃晚饭了吗？","exampleMeaning":"Have you eaten dinner yet?","id":"bdd1317a-d82a-43c2-b78c-5f47acbf0b38","createdAt":1764938129182},{"character":"电影","pinyin":"diànyǐng","meaning":"movie; film","exampleSentence":"我们周末去看电影吧。","exampleMeaning":"Let's go watch a movie this weekend.","id":"b0903b93-1d1d-41aa-a9b9-9afca3bd9e29","createdAt":1764938129182},{"character":"已经","pinyin":"yǐjīng","meaning":"already","exampleSentence":"他已经走了。","exampleMeaning":"He has already left.","id":"9cf0f38d-b5ed-46bd-942e-1c2a5e3de525","createdAt":1764938129182},{"character":"饭馆","pinyin":"fànguǎn","meaning":"restaurant","exampleSentence":"这家饭馆的菜很好吃。","exampleMeaning":"The dishes at this restaurant are very delicious.","id":"aa70a1c7-7e1f-44ff-aa2b-098112baeb37","createdAt":1764938129182},{"character":"票","pinyin":"piào","meaning":"ticket","exampleSentence":"我买了两张电影票。","exampleMeaning":"I bought two movie tickets.","id":"6faf5bde-ec95-42cd-80d9-76f196f43d71","createdAt":1764938129182},{"character":"电脑","pinyin":"diànnǎo","meaning":"computer","exampleSentence":"我的电脑坏了。","exampleMeaning":"My computer is broken.","id":"bc6ffe49-e292-466e-aaa6-4e71c50390a6","createdAt":1764938129182},{"character":"玩","pinyin":"wán","meaning":"to play, to have fun","exampleSentence":"孩子们在公园玩。","exampleMeaning":"The children are playing in the park.","id":"84b76230-8823-498a-b214-219e5c1b92cf","createdAt":1764938129182},{"character":"旅游","pinyin":"lǚyóu","meaning":"to travel, tourism","exampleSentence":"我喜欢去不同的地方旅游。","exampleMeaning":"I like to travel to different places.","id":"9d9e8f46-76e3-4805-9725-0730d34bad2c","createdAt":1764938129182},{"character":"最","pinyin":"zuì","meaning":"most, -est","exampleSentence":"这是我最喜欢的书。","exampleMeaning":"This is my favorite book.","id":"ce816a9d-1d88-411c-8e9c-27d4e8e6ec84","createdAt":1764938129182},{"character":"茶","pinyin":"chá","meaning":"tea","exampleSentence":"请给我一杯茶。","exampleMeaning":"Please give me a cup of tea.","id":"460e7209-aa4a-4b1c-b2a0-5939e0bbda50","createdAt":1764938129182},{"character":"准备","pinyin":"zhǔnbèi","meaning":"to prepare, to get ready","exampleSentence":"我正在准备晚饭。","exampleMeaning":"I am preparing dinner.","id":"e6afab70-bfe6-4863-b554-99cdb617fbb2","createdAt":1764938129182},{"character":"再","pinyin":"zài","meaning":"again; once more; then","exampleSentence":"请再说一遍。","exampleMeaning":"Please say it again.","id":"55a1b5fb-676f-4137-aaf3-66a890b2fdb0","createdAt":1764938129182},{"character":"件","pinyin":"jiàn","meaning":"measure word for clothes, matters, etc.","exampleSentence":"我买了一件新衣服。","exampleMeaning":"I bought a new piece of clothing.","id":"4d3c5192-970c-4c5b-89f6-de21ee7e5899","createdAt":1764938129182},{"character":"衣服","pinyin":"yīfu","meaning":"clothes","exampleSentence":"这些衣服很漂亮。","exampleMeaning":"These clothes are very beautiful.","id":"e3621a4f-01d9-4f83-935b-d92b770f0407","createdAt":1764938129182},{"character":"快","pinyin":"kuài","meaning":"fast, quick; quickly","exampleSentence":"请你快一点儿。","exampleMeaning":"Please be a bit faster.","id":"af350c6f-bd1d-42a8-85fc-8c64f9155fb5","createdAt":1764938129182},{"character":"杯子","pinyin":"bēizi","meaning":"cup, glass","exampleSentence":"这个杯子里有水。","exampleMeaning":"There is water in this cup.","id":"08372eae-5c5e-43df-9efd-ca8cc5832e10","createdAt":1764938129182},{"character":"苹果","pinyin":"píngguǒ","meaning":"apple","exampleSentence":"我每天吃一个苹果。","exampleMeaning":"I eat an apple every day.","id":"d8656966-0453-4cec-b016-bb860b19f44d","createdAt":1764938129182},{"character":"忙","pinyin":"máng","meaning":"busy","exampleSentence":"我今天很忙。","exampleMeaning":"I am very busy today.","id":"a4013f20-40d5-4b22-a876-f9fbdbbe75c1","createdAt":1764938129182},{"character":"钱","pinyin":"qián","meaning":"money","exampleSentence":"我没有很多钱。","exampleMeaning":"I don't have much money.","id":"bddd570c-71bf-4eee-88f3-f8882ce283fa","createdAt":1764938129182},{"character":"商店","pinyin":"shāngdiàn","meaning":"store, shop","exampleSentence":"这家商店卖很多东西。","exampleMeaning":"This shop sells many things.","id":"c5195bdf-3085-4402-adc9-9a6234649c0d","createdAt":1764938129182},{"character":"外边","pinyin":"wàibian","meaning":"outside","exampleSentence":"外边很冷。","exampleMeaning":"It's very cold outside.","id":"1ca709b3-bc9c-4f65-9aaf-deaa127f26b7","createdAt":1764938129182},{"character":"色","pinyin":"sè","meaning":"color","exampleSentence":"你喜欢什么颜色？","exampleMeaning":"What color do you like?","id":"a3e6445e-562c-4082-9849-328eefaef96c","createdAt":1764938129182},{"character":"卖","pinyin":"mài","meaning":"to sell","exampleSentence":"我想卖我的旧车。","exampleMeaning":"I want to sell my old car.","id":"d27d09cd-3c08-45a4-b33b-0b4ffeacc0da","createdAt":1764938129182},{"character":"踢球","pinyin":"tī qiú","meaning":"to play soccer/football","exampleSentence":"他们周末喜欢踢球。","exampleMeaning":"They like to play soccer on weekends.","id":"7cb71967-5c67-47da-9302-6e44319a690f","createdAt":1764938129182},{"character":"生病","pinyin":"shēng bìng","meaning":"to get sick; to fall ill","exampleSentence":"他生病了，不能上班。","exampleMeaning":"He is sick and cannot go to work.","id":"9a83bced-140c-4a9d-bcc3-e360180482dd","createdAt":1764938129182},{"character":"高兴","pinyin":"gāoxìng","meaning":"happy; glad","exampleSentence":"见到你很高兴。","exampleMeaning":"I am very happy to see you.","id":"91a58711-180e-410e-bf08-26fad94e078f","createdAt":1764938129182},{"character":"狗","pinyin":"gǒu","meaning":"dog","exampleSentence":"我家里有一只可爱的狗。","exampleMeaning":"My family has a cute dog.","id":"723b2e25-52cd-48b4-b2e5-331b3a5e2ec9","createdAt":1764938129182},{"character":"旅行","pinyin":"lǚxíng","meaning":"to travel; travel","exampleSentence":"我喜欢去不同的地方旅行。","exampleMeaning":"I like to travel to different places.","id":"bf98bf33-370b-4f11-aeef-4a28089084b6","createdAt":1764938129182},{"character":"客人","pinyin":"kèrén","meaning":"guest; visitor","exampleSentence":"家里来了客人。","exampleMeaning":"Guests have come to the house.","id":"d7ae7f6d-fea2-4417-b59d-22bc20262830","createdAt":1764938129182},{"character":"地方","pinyin":"dìfang","meaning":"place; space","exampleSentence":"这是一个美丽的地方。","exampleMeaning":"This is a beautiful place.","id":"7c1020fb-b9cb-4417-ad66-e7129b450dd5","createdAt":1764938129182}]
+[
+  {
+    "character": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "weekend",
+    "exampleSentence": "这个周末你有什么打算？",
+    "exampleMeaning": "What are your plans for this weekend?",
+    "id": "6c597d6a-211d-465d-a472-191508ec6060",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "打算",
+    "pinyin": "dǎsuàn",
+    "meaning": "to plan; to intend; plan",
+    "exampleSentence": "我打算下个月去北京旅行。",
+    "exampleMeaning": "I plan to travel to Beijing next month.",
+    "id": "7a4ddf29-485b-4d10-bcb8-4c54c4ababc6",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "跟",
+    "pinyin": "gēn",
+    "meaning": "with; to follow; and (colloquial)",
+    "exampleSentence": "我跟我朋友一起去看电影。",
+    "exampleMeaning": "I went to see a movie with my friend.",
+    "id": "500f57dc-ccfd-4d04-9003-2417f59b3220",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "复习",
+    "pinyin": "fùxí",
+    "meaning": "to review",
+    "exampleSentence": "考试前我需要好好复习。",
+    "exampleMeaning": "I need to review well before the exam.",
+    "id": "8b4fed89-d462-4ee0-9e07-1b8076f109c2",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "着急",
+    "pinyin": "zháojí",
+    "meaning": "to worry; to feel anxious",
+    "exampleSentence": "你不用着急，还有时间。",
+    "exampleMeaning": "You don't need to worry, there's still time.",
+    "id": "4cb8cdf9-4c91-456c-89d6-a56ca2f02691",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "小丽",
+    "pinyin": "Xiǎo Lì",
+    "meaning": "Xiao Li (a given name)",
+    "exampleSentence": "小丽很喜欢唱歌。",
+    "exampleMeaning": "Xiao Li likes singing very much.",
+    "id": "48911c2b-53fd-44a7-bd50-97f260df7e03",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "小刚",
+    "pinyin": "Xiǎo Gāng",
+    "meaning": "Xiao Gang (a given name)",
+    "exampleSentence": "小刚今天没来上学。",
+    "exampleMeaning": "Xiao Gang didn't come to school today.",
+    "id": "67e51afc-88d5-48e0-ab36-b6c317d21504",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "bread",
+    "exampleSentence": "我早餐喜欢吃面包和牛奶。",
+    "exampleMeaning": "I like to eat bread and milk for breakfast.",
+    "id": "1595ad46-7eac-4d73-96cb-c040e7303640",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "南方",
+    "pinyin": "nánfāng",
+    "meaning": "south; southern part",
+    "exampleSentence": "中国的南方冬天不是很冷。",
+    "exampleMeaning": "The south of China is not very cold in winter.",
+    "id": "ae40b4d1-8325-4131-ba86-6c50c73a8833",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "北方",
+    "pinyin": "běifāng",
+    "meaning": "north; northern part",
+    "exampleSentence": "北方冬天经常下雪。",
+    "exampleMeaning": "It often snows in the north during winter.",
+    "id": "ca8e748f-359f-49e6-8d90-c64e9f38859d",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "带",
+    "pinyin": "dài",
+    "meaning": "to bring; to take; to carry",
+    "exampleSentence": "请你带上你的护照。",
+    "exampleMeaning": "Please bring your passport.",
+    "id": "300bbf2c-6ccd-4fe0-9a7e-e5cd30592657",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "般",
+    "pinyin": "bān",
+    "meaning": "sort; kind; like; general (often used in phrases like 一般, 正常)",
+    "exampleSentence": "他今天表现得像往常一样。",
+    "exampleMeaning": "He behaved as usual today.",
+    "id": "574954db-5595-43fe-8f04-460697723705",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "地图",
+    "pinyin": "dìtú",
+    "meaning": "map",
+    "exampleSentence": "我们用地图找到那个地方。",
+    "exampleMeaning": "We used the map to find that place.",
+    "id": "2b5ddaff-d793-4090-94af-fa8deb19c21a",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "游戏",
+    "pinyin": "yóuxì",
+    "meaning": "game",
+    "exampleSentence": "孩子们喜欢玩电脑游戏。",
+    "exampleMeaning": "Children like to play computer games.",
+    "id": "f97862df-33b7-490a-8caf-563af6e5d9f6",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "作业",
+    "pinyin": "zuòyè",
+    "meaning": "homework; assignment",
+    "exampleSentence": "我还没有完成今天的作业。",
+    "exampleMeaning": "I haven't finished today's homework yet.",
+    "id": "9198ff42-d4a6-4cb1-86f7-7d24f682205f",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "一直",
+    "pinyin": "yīzhí",
+    "meaning": "straight; continuously; always",
+    "exampleSentence": "他一直都在努力学习。",
+    "exampleMeaning": "He has always been studying hard.",
+    "id": "3896ed0f-6bcd-4b4f-84ec-25f2458dd580",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "早就",
+    "pinyin": "zǎojiù",
+    "meaning": "long ago; already (earlier than expected)",
+    "exampleSentence": "我早就知道了这个消息。",
+    "exampleMeaning": "I already knew this news a long time ago.",
+    "id": "d992c2d3-e7c2-4ea3-b64d-3d16ca9c2568",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "饭",
+    "pinyin": "fàn",
+    "meaning": "meal; cooked rice",
+    "exampleSentence": "你吃晚饭了吗？",
+    "exampleMeaning": "Have you eaten dinner yet?",
+    "id": "bdd1317a-d82a-43c2-b78c-5f47acbf0b38",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "movie; film",
+    "exampleSentence": "我们周末去看电影吧。",
+    "exampleMeaning": "Let's go watch a movie this weekend.",
+    "id": "b0903b93-1d1d-41aa-a9b9-9afca3bd9e29",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "已经",
+    "pinyin": "yǐjīng",
+    "meaning": "already",
+    "exampleSentence": "他已经走了。",
+    "exampleMeaning": "He has already left.",
+    "id": "9cf0f38d-b5ed-46bd-942e-1c2a5e3de525",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "饭馆",
+    "pinyin": "fànguǎn",
+    "meaning": "restaurant",
+    "exampleSentence": "这家饭馆的菜很好吃。",
+    "exampleMeaning": "The dishes at this restaurant are very delicious.",
+    "id": "aa70a1c7-7e1f-44ff-aa2b-098112baeb37",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "票",
+    "pinyin": "piào",
+    "meaning": "ticket",
+    "exampleSentence": "我买了两张电影票。",
+    "exampleMeaning": "I bought two movie tickets.",
+    "id": "6faf5bde-ec95-42cd-80d9-76f196f43d71",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "computer",
+    "exampleSentence": "我的电脑坏了。",
+    "exampleMeaning": "My computer is broken.",
+    "id": "bc6ffe49-e292-466e-aaa6-4e71c50390a6",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "玩",
+    "pinyin": "wán",
+    "meaning": "to play, to have fun",
+    "exampleSentence": "孩子们在公园玩。",
+    "exampleMeaning": "The children are playing in the park.",
+    "id": "84b76230-8823-498a-b214-219e5c1b92cf",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "to travel, tourism",
+    "exampleSentence": "我喜欢去不同的地方旅游。",
+    "exampleMeaning": "I like to travel to different places.",
+    "id": "9d9e8f46-76e3-4805-9725-0730d34bad2c",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "最",
+    "pinyin": "zuì",
+    "meaning": "most, -est",
+    "exampleSentence": "这是我最喜欢的书。",
+    "exampleMeaning": "This is my favorite book.",
+    "id": "ce816a9d-1d88-411c-8e9c-27d4e8e6ec84",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "茶",
+    "pinyin": "chá",
+    "meaning": "tea",
+    "exampleSentence": "请给我一杯茶。",
+    "exampleMeaning": "Please give me a cup of tea.",
+    "id": "460e7209-aa4a-4b1c-b2a0-5939e0bbda50",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "准备",
+    "pinyin": "zhǔnbèi",
+    "meaning": "to prepare, to get ready",
+    "exampleSentence": "我正在准备晚饭。",
+    "exampleMeaning": "I am preparing dinner.",
+    "id": "e6afab70-bfe6-4863-b554-99cdb617fbb2",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "再",
+    "pinyin": "zài",
+    "meaning": "again; once more; then",
+    "exampleSentence": "请再说一遍。",
+    "exampleMeaning": "Please say it again.",
+    "id": "55a1b5fb-676f-4137-aaf3-66a890b2fdb0",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "件",
+    "pinyin": "jiàn",
+    "meaning": "measure word for clothes, matters, etc.",
+    "exampleSentence": "我买了一件新衣服。",
+    "exampleMeaning": "I bought a new piece of clothing.",
+    "id": "4d3c5192-970c-4c5b-89f6-de21ee7e5899",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "clothes",
+    "exampleSentence": "这些衣服很漂亮。",
+    "exampleMeaning": "These clothes are very beautiful.",
+    "id": "e3621a4f-01d9-4f83-935b-d92b770f0407",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "快",
+    "pinyin": "kuài",
+    "meaning": "fast, quick; quickly",
+    "exampleSentence": "请你快一点儿。",
+    "exampleMeaning": "Please be a bit faster.",
+    "id": "af350c6f-bd1d-42a8-85fc-8c64f9155fb5",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cup, glass",
+    "exampleSentence": "这个杯子里有水。",
+    "exampleMeaning": "There is water in this cup.",
+    "id": "08372eae-5c5e-43df-9efd-ca8cc5832e10",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "apple",
+    "exampleSentence": "我每天吃一个苹果。",
+    "exampleMeaning": "I eat an apple every day.",
+    "id": "d8656966-0453-4cec-b016-bb860b19f44d",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "忙",
+    "pinyin": "máng",
+    "meaning": "busy",
+    "exampleSentence": "我今天很忙。",
+    "exampleMeaning": "I am very busy today.",
+    "id": "a4013f20-40d5-4b22-a876-f9fbdbbe75c1",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "钱",
+    "pinyin": "qián",
+    "meaning": "money",
+    "exampleSentence": "我没有很多钱。",
+    "exampleMeaning": "I don't have much money.",
+    "id": "bddd570c-71bf-4eee-88f3-f8882ce283fa",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "store, shop",
+    "exampleSentence": "这家商店卖很多东西。",
+    "exampleMeaning": "This shop sells many things.",
+    "id": "c5195bdf-3085-4402-adc9-9a6234649c0d",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "外边",
+    "pinyin": "wàibian",
+    "meaning": "outside",
+    "exampleSentence": "外边很冷。",
+    "exampleMeaning": "It's very cold outside.",
+    "id": "1ca709b3-bc9c-4f65-9aaf-deaa127f26b7",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "色",
+    "pinyin": "sè",
+    "meaning": "color",
+    "exampleSentence": "你喜欢什么颜色？",
+    "exampleMeaning": "What color do you like?",
+    "id": "a3e6445e-562c-4082-9849-328eefaef96c",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "卖",
+    "pinyin": "mài",
+    "meaning": "to sell",
+    "exampleSentence": "我想卖我的旧车。",
+    "exampleMeaning": "I want to sell my old car.",
+    "id": "d27d09cd-3c08-45a4-b33b-0b4ffeacc0da",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "踢球",
+    "pinyin": "tī qiú",
+    "meaning": "to play soccer/football",
+    "exampleSentence": "他们周末喜欢踢球。",
+    "exampleMeaning": "They like to play soccer on weekends.",
+    "id": "7cb71967-5c67-47da-9302-6e44319a690f",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "to get sick; to fall ill",
+    "exampleSentence": "他生病了，不能上班。",
+    "exampleMeaning": "He is sick and cannot go to work.",
+    "id": "9a83bced-140c-4a9d-bcc3-e360180482dd",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "happy; glad",
+    "exampleSentence": "见到你很高兴。",
+    "exampleMeaning": "I am very happy to see you.",
+    "id": "91a58711-180e-410e-bf08-26fad94e078f",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "狗",
+    "pinyin": "gǒu",
+    "meaning": "dog",
+    "exampleSentence": "我家里有一只可爱的狗。",
+    "exampleMeaning": "My family has a cute dog.",
+    "id": "723b2e25-52cd-48b4-b2e5-331b3a5e2ec9",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "旅行",
+    "pinyin": "lǚxíng",
+    "meaning": "to travel; travel",
+    "exampleSentence": "我喜欢去不同的地方旅行。",
+    "exampleMeaning": "I like to travel to different places.",
+    "id": "bf98bf33-370b-4f11-aeef-4a28089084b6",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "客人",
+    "pinyin": "kèrén",
+    "meaning": "guest; visitor",
+    "exampleSentence": "家里来了客人。",
+    "exampleMeaning": "Guests have come to the house.",
+    "id": "d7ae7f6d-fea2-4417-b59d-22bc20262830",
+    "createdAt": 1764938129182
+  },
+  {
+    "character": "地方",
+    "pinyin": "dìfang",
+    "meaning": "place; space",
+    "exampleSentence": "这是一个美丽的地方。",
+    "exampleMeaning": "This is a beautiful place.",
+    "id": "7c1020fb-b9cb-4417-ad66-e7129b450dd5",
+    "createdAt": 1764938129182
+  }
+]
