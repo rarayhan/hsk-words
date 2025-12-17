@@ -612,7 +612,17 @@
     "exampleMeaning": "How are you so thin?",
     "id": "1u2v3w4x-5y6z-7a8b-9c0d-e1f2g3h4i5j6",
     "createdAt": 1734477800000
+  },
+    {
+    "character": "喂",
+    "pinyin": "wei",
+    "meaning": "Hello",
+    "exampleSentence": "喂你好， 你打电话我。",
+    "exampleMeaning": "Hello, Please call me. ",
+    "id": "1u2v3w4x-5y6z-7a8b-9c0d-e1f2g3h4i5j6",
+    "createdAt": 1734477800000
   }
+  
 ]
 
 
