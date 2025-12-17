@@ -421,5 +421,200 @@
     "exampleMeaning": "This is a beautiful place.",
     "id": "7c1020fb-b9cb-4417-ad66-e7129b450dd5",
     "createdAt": 1764938129182
+  },
+
+ 
+  {
+    "character": "休息",
+    "pinyin": "xiū xi",
+    "meaning": "to rest; to take a break",
+    "exampleSentence": "我不累，不需要休息。",
+    "exampleMeaning": "I am not tired, I don't need to rest.",
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "腿",
+    "pinyin": "tuǐ",
+    "meaning": "leg",
+    "exampleSentence": "昨天跑步以后，我的腿很疼。",
+    "exampleMeaning": "After running yesterday, my legs hurt.",
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-l2m3n4o5p6q7",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "疼",
+    "pinyin": "téng",
+    "meaning": "pain; ache; sore",
+    "exampleSentence": "我的头有点疼。",
+    "exampleMeaning": "My head hurts a little.",
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-m3n4o5p6q7r8",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "脚",
+    "pinyin": "jiǎo",
+    "meaning": "foot",
+    "exampleSentence": "这双鞋太小了，挤脚。",
+    "exampleMeaning": "These shoes are too small, they squeeze my feet.",
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-n4o5p6q7r8s9",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "容易",
+    "pinyin": "róng yì",
+    "meaning": "easy; likely",
+    "exampleSentence": "这个问题很容易回答。",
+    "exampleMeaning": "This question is very easy to answer.",
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-o5p6q7r8s9t0",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "难",
+    "pinyin": "nán",
+    "meaning": "difficult; hard",
+    "exampleSentence": "汉字写起来很难。",
+    "exampleMeaning": "Chinese characters are hard to write.",
+    "id": "6f7g8h9i-0j1k-2l3m-4n5o-p6q7r8s9t0u1",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "经理",
+    "pinyin": "jīng lǐ",
+    "meaning": "manager",
+    "exampleSentence": "经理正在开会。",
+    "exampleMeaning": "The manager is currently in a meeting.",
+    "id": "7g8h9i0j-1k2l-3m4n-5o6p-q7r8s9t0u1v2",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "办公室",
+    "pinyin": "bàn gōng shì",
+    "meaning": "office",
+    "exampleSentence": "他在办公室等你。",
+    "exampleMeaning": "He is waiting for you in the office.",
+    "id": "8h9i0j1k-2l3m-4n5o-6p7q-r8s9t0u1v2w3",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "告诉",
+    "pinyin": "gào su",
+    "meaning": "to tell; to inform",
+    "exampleSentence": "请告诉我不去的原因。",
+    "exampleMeaning": "Please tell me the reason for not going.",
+    "id": "9i0j1k2l-3m4n-5o6p-7q8r-s9t0u1v2w3x4",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "出租车",
+    "pinyin": "chū zū chē",
+    "meaning": "taxi",
+    "exampleSentence": "我们坐出租车去机场吧。",
+    "exampleMeaning": "Let's take a taxi to the airport.",
+    "id": "0j1k2l3m-4n5o-6p7q-8r9s-t0u1v2w3x4y5",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "等",
+    "pinyin": "děng",
+    "meaning": "to wait",
+    "exampleSentence": "请在门口等我一下。",
+    "exampleMeaning": "Please wait for me a moment at the door.",
+    "id": "1k2l3m4n-5o6p-7q8r-9s0t-u1v2w3x4y5z6",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "辆",
+    "pinyin": "liàng",
+    "meaning": "measure word for vehicles",
+    "exampleSentence": "那辆红色的车是我的。",
+    "exampleMeaning": "That red car is mine.",
+    "id": "2l3m4n5o-6p7q-8r9s-0t1u-v2w3x4y5z6a7",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "楼",
+    "pinyin": "lóu",
+    "meaning": "floor; building",
+    "exampleSentence": "我住在六楼。",
+    "exampleMeaning": "I live on the sixth floor.",
+    "id": "3m4n5o6p-7q8r-9s0t-1u2v-w3x4y5z6a7b8",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "拿",
+    "pinyin": "ná",
+    "meaning": "to take; to hold",
+    "exampleSentence": "请帮我拿一下这杯水。",
+    "exampleMeaning": "Please help me hold this glass of water.",
+    "id": "4n5o6p7q-8r9s-0t1u-2v3w-x4y5z6a7b8c9",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "把",
+    "pinyin": "bǎ",
+    "meaning": "particle marking the following noun as a direct object; bunch",
+    "exampleSentence": "请把门关上。",
+    "exampleMeaning": "Please close the door.",
+    "id": "5o6p7q8r-9s0t-1u2v-3w4x-y5z6a7b8c9d0",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "伞",
+    "pinyin": "sǎn",
+    "meaning": "umbrella",
+    "exampleSentence": "外面下雨了，带把伞吧。",
+    "exampleMeaning": "It's raining outside, take an umbrella.",
+    "id": "6p7q8r9s-0t1u-2v3w-4x5y-z6a7b8c9d0e1",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "睡觉",
+    "pinyin": "shuì jiào",
+    "meaning": "to sleep",
+    "exampleSentence": "昨天晚上我十点就睡觉了。",
+    "exampleMeaning": "Last night I went to sleep at 10 o'clock.",
+    "id": "7q8r9s0t-1u2v-3w4x-5y6z-a7b8c9d0e1f2",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "做",
+    "pinyin": "zuò",
+    "meaning": "to do; to make",
+    "exampleSentence": "你周末喜欢做什么？",
+    "exampleMeaning": "What do you like to do on weekends?",
+    "id": "8r9s0t1u-2v3w-4x5y-6z7a-b8c9d0e1f2g3",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "胖",
+    "pinyin": "pàng",
+    "meaning": "fat; plump",
+    "exampleSentence": "这只猫很胖。",
+    "exampleMeaning": "This cat is very fat.",
+    "id": "9s0t1u2v-3w4x-5y6z-7a8b-c9d0e1f2g3h4",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "其实",
+    "pinyin": "qí shí",
+    "meaning": "actually; in fact",
+    "exampleSentence": "其实我不太饿。",
+    "exampleMeaning": "Actually, I am not very hungry.",
+    "id": "0t1u2v3w-4x5y-6z7a-8b9c-d0e1f2g3h4i5",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "瘦",
+    "pinyin": "shòu",
+    "meaning": "thin; lean",
+    "exampleSentence": "你怎么这么瘦？",
+    "exampleMeaning": "How are you so thin?",
+    "id": "1u2v3w4x-5y6z-7a8b-9c0d-e1f2g3h4i5j6",
+    "createdAt": 1734477800000
   }
 ]
+
+
+  
+ 
