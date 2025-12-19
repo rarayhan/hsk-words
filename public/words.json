@@ -621,7 +621,207 @@
     "exampleMeaning": "Hello, Please call me. ",
     "id": "1u2v3w4x-5y6z-7a8b-9c0d-e1f2g3h4i5j6",
     "createdAt": 1734477800000
+  },
+ 
+  {
+    "character": "还是",
+    "pinyin": "hái shi",
+    "meaning": "or (in questions); still",
+    "exampleSentence": "你想喝茶还是喝咖啡？",
+    "exampleMeaning": "Do you want to drink tea or coffee?",
+    "id": "a1b2c3d4-e5f6-4789-8012-34567890abcd",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "爬山",
+    "pinyin": "pá shān",
+    "meaning": "to climb a mountain; to hike",
+    "exampleSentence": "周末我们要去爬山。",
+    "exampleMeaning": "We are going hiking this weekend.",
+    "id": "b2c3d4e5-f6g7-4890-9123-45678901bcde",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "小心",
+    "pinyin": "xiǎo xīn",
+    "meaning": "to be careful",
+    "exampleSentence": "路上车多，请小心。",
+    "exampleMeaning": "There are many cars on the road, please be careful.",
+    "id": "c3d4e5f6-g7h8-4901-a234-56789012cdef",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "条",
+    "pinyin": "tiáo",
+    "meaning": "measure word (for long thin things like pants, roads, fish)",
+    "exampleSentence": "我想买一条裤子。",
+    "exampleMeaning": "I want to buy a pair of pants.",
+    "id": "d4e5f6g7-h8i9-4012-b345-67890123def0",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "裤子",
+    "pinyin": "kù zi",
+    "meaning": "pants; trousers",
+    "exampleSentence": "这条裤子有点长。",
+    "exampleMeaning": "These pants are a bit long.",
+    "id": "e5f6g7h8-i9j0-4123-c456-78901234ef01",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "记得",
+    "pinyin": "jì de",
+    "meaning": "to remember",
+    "exampleSentence": "你记得带钥匙了吗？",
+    "exampleMeaning": "Did you remember to bring the keys?",
+    "id": "f6g7h8i9-j0k1-4234-d567-89012345f012",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "衬衫",
+    "pinyin": "chèn shān",
+    "meaning": "shirt",
+    "exampleSentence": "他今天穿了一件白衬衫。",
+    "exampleMeaning": "He wore a white shirt today.",
+    "id": "g7h8i9j0-k1l2-4345-e678-901234560123",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "元",
+    "pinyin": "yuán",
+    "meaning": "currency unit (Yuan)",
+    "exampleSentence": "这块手表三千元。",
+    "exampleMeaning": "This watch is 3000 yuan.",
+    "id": "h8i9j0k1-l2m3-4456-f789-012345671234",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "新鲜",
+    "pinyin": "xīn xiān",
+    "meaning": "fresh",
+    "exampleSentence": "这里的蔬菜很新鲜。",
+    "exampleMeaning": "The vegetables here are very fresh.",
+    "id": "i9j0k1l2-m3n4-4567-g890-123456782345",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "甜",
+    "pinyin": "tián",
+    "meaning": "sweet",
+    "exampleSentence": "这种苹果特别甜。",
+    "exampleMeaning": "This kind of apple is especially sweet.",
+    "id": "j0k1l2m3-n4o5-4678-h901-234567893456",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "只",
+    "pinyin": "zhī",
+    "meaning": "measure word (for birds and certain animals, etc.)",
+    "exampleSentence": "我有一只小猫。",
+    "exampleMeaning": "I have a small cat.",
+    "id": "k1l2m3n4-o5p6-4789-i012-345678904567",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "放",
+    "pinyin": "fàng",
+    "meaning": "to put; to place",
+    "exampleSentence": "请把书放在桌子上。",
+    "exampleMeaning": "Please put the book on the table.",
+    "id": "l2m3n4o5-p6q7-4890-j123-456789015678",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "饮料",
+    "pinyin": "yǐn liào",
+    "meaning": "beverage; drink",
+    "exampleSentence": "你想喝什么饮料？",
+    "exampleMeaning": "What beverage would you like to drink?",
+    "id": "m3n4o5p6-q7r8-4901-k234-567890126789",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "or (in statements)",
+    "exampleSentence": "我们可以吃饭或者看电影。",
+    "exampleMeaning": "We can eat or watch a movie.",
+    "id": "n4o5p6q7-r8s9-5012-l345-678901237890",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "舒服",
+    "pinyin": "shū fu",
+    "meaning": "comfortable",
+    "exampleSentence": "这张椅子很舒服。",
+    "exampleMeaning": "This chair is very comfortable.",
+    "id": "o5p6q7r8-s9t0-5123-m456-789012348901",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "花",
+    "pinyin": "huā",
+    "meaning": "flower",
+    "exampleSentence": "公园里有很多红色的花。",
+    "exampleMeaning": "There are many red flowers in the park.",
+    "id": "p6q7r8s9-t0u1-5234-n567-890123459012",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "绿",
+    "pinyin": "lǜ",
+    "meaning": "green",
+    "exampleSentence": "春天树叶变绿了。",
+    "exampleMeaning": "The leaves turn green in spring.",
+    "id": "q7r8s9t0-u1v2-5345-o678-901234560123",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "晴天",
+    "pinyin": "qíng tiān",
+    "meaning": "sunny day",
+    "exampleSentence": "今天是晴天，我们出去玩吧。",
+    "exampleMeaning": "It's a sunny day today, let's go out and play.",
+    "id": "r8s9t0u1-v2w3-5456-p789-012345671234",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "阴天",
+    "pinyin": "yīn tiān",
+    "meaning": "cloudy day; overcast",
+    "exampleSentence": "明天是阴天，可能要下雨。",
+    "exampleMeaning": "Tomorrow will be cloudy, it might rain.",
+    "id": "s9t0u1v2-w3x4-5567-q890-123456782345",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "样",
+    "pinyin": "yàng",
+    "meaning": "appearance; shape; manner",
+    "exampleSentence": "这件衣服的样子很好看。",
+    "exampleMeaning": "The style of this piece of clothing looks very good.",
+    "id": "t0u1v2w3-x4y5-5678-r901-234567893456",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "一样",
+    "pinyin": "yí yàng",
+    "meaning": "same; alike",
+    "exampleSentence": "你的书和我的一样。",
+    "exampleMeaning": "Your book is the same as mine.",
+    "id": "u1v2w3x4-y5z6-5789-s012-345678904567",
+    "createdAt": 1734477800000
+  },
+  {
+    "character": "桌子",
+    "pinyin": "zhuō zi",
+    "meaning": "table; desk",
+    "exampleSentence": "桌子上有一杯水。",
+    "exampleMeaning": "There is a cup of water on the table.",
+    "id": "v2w3x4y5-z6a7-5890-t123-456789015678",
+    "createdAt": 1734477800000
   }
+
   
 ]
 
