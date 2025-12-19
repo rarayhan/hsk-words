@@ -820,8 +820,153 @@
     "exampleMeaning": "There is a cup of water on the table.",
     "id": "v2w3x4y5-z6a7-5890-t123-456789015678",
     "createdAt": 1734477800000
+  },
+ 
+  {
+    "character": "比赛",
+    "pinyin": "bǐ sài",
+    "meaning": "competition; match; game",
+    "exampleSentence": "今天的足球比赛很精彩。",
+    "exampleMeaning": "Today's football match was very exciting.",
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "照片",
+    "pinyin": "zhào piàn",
+    "meaning": "photo; picture",
+    "exampleSentence": "这是我小时候的照片。",
+    "exampleMeaning": "This is a photo of me when I was a child.",
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "年级",
+    "pinyin": "nián jí",
+    "meaning": "grade (in school); year",
+    "exampleSentence": "我的儿子上小学三年级。",
+    "exampleMeaning": "My son is in the third grade of elementary school.",
+    "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "又",
+    "pinyin": "yòu",
+    "meaning": "again (for past events); also",
+    "exampleSentence": "昨天吃米饭，今天又吃米饭。",
+    "exampleMeaning": "We ate rice yesterday, and ate rice again today.",
+    "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "聪明",
+    "pinyin": "cōng ming",
+    "meaning": "smart; clever; intelligent",
+    "exampleSentence": "这个孩子很聪明，学得很快。",
+    "exampleMeaning": "This child is very smart and learns very quickly.",
+    "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "热情",
+    "pinyin": "rè qíng",
+    "meaning": "enthusiastic; warm; passion",
+    "exampleSentence": "这里的人对客人很热情。",
+    "exampleMeaning": "The people here are very warm towards guests.",
+    "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "努力",
+    "pinyin": "nǔ lì",
+    "meaning": "hardworking; to strive",
+    "exampleSentence": "只要努力，就能学好汉语。",
+    "exampleMeaning": "As long as you work hard, you can learn Chinese well.",
+    "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "总是",
+    "pinyin": "zǒng shì",
+    "meaning": "always",
+    "exampleSentence": "他总是第一个到办公室。",
+    "exampleMeaning": "He is always the first to arrive at the office.",
+    "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "回答",
+    "pinyin": "huí dá",
+    "meaning": "to answer; to reply",
+    "exampleSentence": "请回答我的问题。",
+    "exampleMeaning": "Please answer my question.",
+    "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "站",
+    "pinyin": "zhàn",
+    "meaning": "to stand; station",
+    "exampleSentence": "老师讲课的时候是站着的。",
+    "exampleMeaning": "The teacher stands while lecturing.",
+    "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "饿",
+    "pinyin": "è",
+    "meaning": "hungry",
+    "exampleSentence": "我饿了，想吃点东西。",
+    "exampleMeaning": "I am hungry, I want to eat something.",
+    "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "超市",
+    "pinyin": "chāo shì",
+    "meaning": "supermarket",
+    "exampleSentence": "我去超市买牛奶。",
+    "exampleMeaning": "I am going to the supermarket to buy milk.",
+    "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "蛋糕",
+    "pinyin": "dàn gāo",
+    "meaning": "cake",
+    "exampleSentence": "祝你生日快乐，这是你的蛋糕。",
+    "exampleMeaning": "Happy Birthday to you, this is your cake.",
+    "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "年轻",
+    "pinyin": "nián qīng",
+    "meaning": "young",
+    "exampleSentence": "那位医生很年轻。",
+    "exampleMeaning": "That doctor is very young.",
+    "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "认真",
+    "pinyin": "rèn zhēn",
+    "meaning": "serious; conscientious; earnest",
+    "exampleSentence": "他工作非常认真。",
+    "exampleMeaning": "He takes his work very seriously.",
+    "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+    "createdAt": 1734618656000
+  },
+  {
+    "character": "客人",
+    "pinyin": "kè rén",
+    "meaning": "guest; customer",
+    "exampleSentence": "今天家里要来客人。",
+    "exampleMeaning": "Guests are coming to the house today.",
+    "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+    "createdAt": 1734618656000
   }
-
+ 
   
 ]
 
